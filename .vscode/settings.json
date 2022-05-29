@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnsave": {
+    "source.fixAll.eslint": true,
+    "surce.fixAll.tslint": true,
+    "source.organizeimports": true
+  },
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false
+}
